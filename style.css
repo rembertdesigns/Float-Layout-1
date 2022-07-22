@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+header,footer{
+    border: 1px solid gray;
+    height: 100px;
+    clear: both;
+}
+
+.row1{
+    border: 1px solid gray;
+    height: 150px;
+    float: left;
+    width: 33.3333%;
+}
+
+.row2{
+    border: 1px solid gray;
+    height: 300px;
+    float: left;
+    width: 50%;
+}
+
+.container{
+    clear:both;
+}
